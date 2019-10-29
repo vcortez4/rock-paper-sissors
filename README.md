@@ -1,9 +1,5 @@
 # rock-paper-sissors
-<h1>Rock, Paper, Scissors</h1>
-
-<div class="game">
-
-    <script>
+    //script
         // User choice
         var userChoice = prompt("Do you choose rock, paper or scissors?");
         if (! userChoice) {
